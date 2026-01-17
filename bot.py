@@ -1,5 +1,6 @@
 import discord
 import logging
+import asyncio
 from discord.ext import commands
 
 # .env
@@ -13,6 +14,9 @@ intents = discord.Intents.default()
 intents.message_content = True
 intents.guilds = True
 intents.members = True 
+
+loop = asyncio.new_event_loop()
+asyncio.set_event_loop(loop)
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 

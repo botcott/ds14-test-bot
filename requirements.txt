@@ -1,0 +1,5 @@
+py-cord
+sqlalchemy
+python-dotenv
+asyncpg
+pydantic
