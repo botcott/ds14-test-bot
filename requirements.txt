@@ -3,3 +3,4 @@ sqlalchemy
 python-dotenv
 asyncpg
 pydantic
+audioop-lts

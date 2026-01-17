@@ -1,9 +1,6 @@
-[submodule "cogs/ds14-judges-mention-cog"]
-	path = cogs/ds14-judges-mention-cog
-	url = https://github.com/botcott/ds14-judges-mention-cog
 [submodule "cogs/ds14-judges-appeals-cog"]
 	path = cogs/ds14-judges-appeals-cog
 	url = https://github.com/botcott/ds14-judges-appeals-cog
-[submodule "cogs/ds14-admin-stats-cog"]
-	path = cogs/ds14-admin-stats-cog
-	url = https://github.com/botcott/ds14-admin-stats-cog
+[submodule "cogs/ds14-judges-mention-cog"]
+	path = cogs/ds14-judges-mention-cog
+	url = https://github.com/botcott/ds14-judges-mention-cog
