@@ -4,3 +4,4 @@ python-dotenv
 asyncpg
 pydantic
 audioop-lts
+httpx
